@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## LateRAISSe - The 1st workshop on Language Technology and Resources for a fAir, Inclusive, and Safe SociEty at LREC'22
 
 You can use the [editor on GitHub](https://github.com/lateraisse/lateraisse.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
